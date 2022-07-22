@@ -1,3 +1,3 @@
 # Wiress
 MyStartupCode
-I love :coffe: 
+I love :coffee: 
