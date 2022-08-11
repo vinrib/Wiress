@@ -33,7 +33,17 @@
     width: 64px;
     height: 64px;
 }
-
+#navi{
+    
+    left: 0px;
+    height: 30px;
+    background-color: #333333;
+    color: #FFFFFF;
+    font-family: Helvetica, Verdana, Arial;
+    font-size: 16px;
+    position: fixed;
+        
+}
 .slider {
     width: 200px;
     height: 400px;
