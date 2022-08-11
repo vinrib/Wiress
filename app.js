@@ -60,9 +60,8 @@ function goPrev() {
     }
 }
  
-function helloWorld(){
-    alert('Hello World');
-    console.log("hello World");
+function helloWorld() {
+    alert('hello world');
 }
 function openView() {
     document.getElementById("viewerButton").classList.add("hidden");
